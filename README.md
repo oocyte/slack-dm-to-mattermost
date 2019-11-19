@@ -51,7 +51,7 @@ To run the export:
 ./slack_export.py --token <token> --includeGroupDirectMessages --includeDirectMessages
 ```
 
-This will create `~/slackdmexport/test` directory with users.json, mpims.json, dms.json and the associated directories. You can now run a zip command to package it into a Slack Corporate Export format zip.
+This will create `~/test` directory with users.json, mpims.json, dms.json and the associated directories. You can now run a zip command to package it into a Slack Corporate Export format zip.
 ```
 cd test
 zip -r ../slackdms.zip .
