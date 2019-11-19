@@ -10,7 +10,7 @@ Or, you can setup a Bot and create an Oauth token: https://api.slack.com/apps
 Create New App
 
 App Name -> Direct Message Export
-Slack Workspace -> IBM Algo Risk Service
+Slack Workspace -> Your WorkSpace
 
 Under Add Features and Functionality, click on Permissions
 
