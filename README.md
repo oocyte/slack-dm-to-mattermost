@@ -62,7 +62,7 @@ To import the data into mattermost local install:
 - Create an account on DockerHub: https://hub.docker.com
 - Install mattermost preview: https://github.com/mattermost/mattermost-docker-preview
 - Navigate to mattermost local install: http://localhost:8065
-  - register using your IBM email
+  - register using your slack email. Please note this is case sensitive, you can find the email on your slack profile page
   - create a team
   - goto the admin console and update maximum user count to 500: http://localhost:8065/admin_console/site_config/users_and_teams
 - Go back to your local install http://localhost:8065/<team>, from the drop down navigation menu, select Team Settings -> Import
