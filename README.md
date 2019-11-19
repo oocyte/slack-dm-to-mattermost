@@ -67,4 +67,4 @@ To import the data into mattermost local install:
   - goto the admin console and update maximum user count to 500: http://localhost:8065/admin_console/site_config/users_and_teams
 - Go back to your local install http://localhost:8065/<team>, from the drop down navigation menu, select Team Settings -> Import
 - Upload your zip file created from the previous step and import data
-- NOTE: for users that are not part of our workspace (from another team or left the company, their IDs will be in the form of **generated-<ID>**
+- NOTE: for users that are not part of our workspace (from another team or left the company, their IDs will be in the form of **generated-ID**
